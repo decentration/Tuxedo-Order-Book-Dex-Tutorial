@@ -8358,6 +8358,7 @@ dependencies = [
 name = "tuxedo-template-runtime"
 version = "1.0.0-dev"
 dependencies = [
+ "dex",
  "hex-literal",
  "log",
  "money",
